@@ -1,0 +1,2 @@
+formatoSalida=xls;
+rutaSalida=/Users/rvasquez/eclipse-workspace/013_Carrito;
